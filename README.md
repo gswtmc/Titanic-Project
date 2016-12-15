@@ -4,7 +4,7 @@ The goal is to demonstrate data handling, analysis, and visualization learned th
 
 Here are some questions answered in this report:
 
-1. Who were the passengers on the Titanic?
+1. Who were the passengers on the Titanic (Gender, Class, Age,etc)?
 2. What deck were the passengers on and how does that relate to their class?
 3. Where did the passengers come from?
 4. Who was alone and who was with family?
