@@ -2,7 +2,7 @@
 This is a project for Udemy course using data provided by Kaggle, Titanic: Machine Learning from Disaster.
 The goal is to demonstrate data handling, analysis, and visualization learned throughout the course. 
 
-Here are some questions answered in this report:
+Here are questions answered in this report:
 
 1. Who were the passengers on the Titanic (Gender, Class, Age,etc)?
 2. What deck were the passengers on and how does that relate to their class?
