@@ -12,8 +12,7 @@ Here are some questions answered in this report:
 
 4) Who was alone and who was with family?
 
-5) What factors helped some survive the sinking?
-  * Did the deck have any effects on the passengers survival rate?
+5) What factors helped some survive the sinking?* Did the deck have any effects on the passengers survival rate?
   * Did having a family member increase odds of surviving the crash?
 
 ## 
